@@ -1,6 +1,6 @@
 # Go Lang
 
-## Primeiras semanas de Estudo da Linguagem GO - Dia 1
+## Estudo da Linguagem GO - Dia 1
 
 #### [X] Pacotes
 #### [X] Váriaveis
