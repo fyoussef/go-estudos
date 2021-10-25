@@ -1,2 +1,3 @@
-# go-estudos
-Repositório para meus arquivos de estudos de Go Lang
+# Go Lang
+
+Primeiras semanas de Estudo da Linguagem GO
