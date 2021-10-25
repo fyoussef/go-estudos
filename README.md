@@ -2,9 +2,9 @@
 
 ## Primeiras semanas de Estudo da Linguagem GO - Dia 1
 
-#### Pacotes
-#### Váriaveis
-#### Tipos de Dados
-#### Operadores
-#### Funções
-#### Struct
+#### [X] Pacotes
+#### [X] Váriaveis
+#### [X] Tipos de Dados
+#### [X] Operadores
+#### [X] Funções
+#### [X] Struct
